@@ -1,0 +1,9 @@
+import numpy as np
+import pandas as pd 
+df = pd.read_excel (r'C:\Users\hp\OneDrive\Documents\MAYDAY_NATI\STOP_SELECTER\db\bmta_busline&Bus_Stop.xlsx') #import excel file
+
+
+
+
+print (df)
+
